@@ -21,7 +21,7 @@ Hi there👋, I'm Fatima-Ezzahra<br>🎓 I’m a third-year Computer Science and
  
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ElMouafikFatima-Ezzahra&theme=gotham&hide_border=false&include_all_commits=false&count_private=false) --------- ![](https://nirzak-streak-stats.vercel.app/?user=ElMouafikFatima-Ezzahra&theme=gotham&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=ElMouafikFatima-Ezzahra&theme=gotham&hide_border=false&include_all_commits=false&count_private=false) ---- ![](https://nirzak-streak-stats.vercel.app/?user=ElMouafikFatima-Ezzahra&theme=gotham&hide_border=false)
 
 
 ---
